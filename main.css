@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    background-color: rgb(129, 167, 204);
+}
+h1, h3 {
+    background-color: lightskyblue;
+    border-radius: 100px;
+    border-width: 100px;
+}
+video, iframe {
+    border: 5px solid lightseagreen;
+    border-radius: 50px;
+}
+audio {
+    border: 5px solid #555;
+    border-radius: 100px;
+}
+canvas{
+    border: 2px solid black;
+    background-color: gray;
+    border-radius: 5px;
+}
+svg{
+    margin: 5px;
+}
